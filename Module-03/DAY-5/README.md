@@ -24,7 +24,7 @@ Step 5: End
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a StringBuilder Object Reference in Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
