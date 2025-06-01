@@ -37,7 +37,7 @@ To write a Java program that takes a number between 1 and 5 from the user and di
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a control statement
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
