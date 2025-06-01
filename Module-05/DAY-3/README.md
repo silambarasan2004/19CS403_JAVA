@@ -28,7 +28,7 @@ To Create a java program to print fibonacci series for given number , to read an
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Getter and Setter using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
