@@ -23,7 +23,7 @@ To create a Java Program to implement Method Local Inner Class.
  ```
 
 /*
-Program to implement a class & objects using Java
+Program to implement a Inner Class using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
