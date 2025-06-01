@@ -26,7 +26,7 @@ To Create a java program to display the reverse string and  use tightly encapsul
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a tightly encapsulated class using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
