@@ -25,7 +25,7 @@
  ```
 
 /*
-Program to implement a class & objects using Java
+Program to implement a Hierarchical Inheritance using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
