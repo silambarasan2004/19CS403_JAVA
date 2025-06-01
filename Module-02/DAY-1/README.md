@@ -20,7 +20,7 @@ To create a java program for calculate cube of a number using static method.
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Static method using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
