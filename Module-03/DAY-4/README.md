@@ -20,7 +20,7 @@ To create a java program using StringTokenizer class that tokenizes a string "My
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a String Tokenizer using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
