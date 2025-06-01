@@ -23,7 +23,7 @@ To develop a java program use append() method concatenates the given argument wi
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a String Buffer using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
