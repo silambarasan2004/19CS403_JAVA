@@ -40,7 +40,7 @@ To write a Java program for below situation, Student object contains member 'Stu
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Inheritance using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
