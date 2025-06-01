@@ -17,7 +17,7 @@ To create a java program to read input and print length of the string in java.
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a String and its Operations using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
