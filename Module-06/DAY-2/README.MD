@@ -22,7 +22,7 @@ To Develop a Java program to perform Multilevel Inheritance to calculate the are
  ```
 
 /*
-Program to implement a class & objects using Java
+Program to implement a MultiLevel Inheritance using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
