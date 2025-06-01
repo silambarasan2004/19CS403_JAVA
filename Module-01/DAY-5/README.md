@@ -23,7 +23,7 @@ To write a Java program that determines whether a given number is odd or even us
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Static Variable using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
