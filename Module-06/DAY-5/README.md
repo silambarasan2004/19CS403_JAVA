@@ -21,7 +21,7 @@ To write a Java Program for below Scenario. Media Class have constructor to disp
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Multiple Inheritance
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
