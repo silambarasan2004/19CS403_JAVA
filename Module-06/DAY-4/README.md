@@ -14,7 +14,7 @@
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Packages using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
