@@ -28,7 +28,7 @@
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a final & Static using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
