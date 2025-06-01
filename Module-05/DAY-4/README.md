@@ -27,7 +27,7 @@
  ```
 
 /*
-Program to implement a class & objects using Java
+Program to implement a IS-A RELATIONSHIP AND HAS-A RELATIONSHIP using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
