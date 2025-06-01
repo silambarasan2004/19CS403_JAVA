@@ -50,7 +50,7 @@ Call the getPrice() method in the main method of the Sample class  and store the
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
+Program to implement a Parameterized Constructor Using Java
 Developed by: Silambarasan E
 RegisterNumber:  212222040156
 */
